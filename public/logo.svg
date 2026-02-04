@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Valentin Prep Physique">
+  <rect width="120" height="120" rx="24" fill="#0a0a0a"/>
+  <rect x="18" y="56" width="84" height="8" rx="4" fill="#ffffff"/>
+  <rect x="10" y="48" width="10" height="24" rx="4" fill="#ffffff"/>
+  <rect x="100" y="48" width="10" height="24" rx="4" fill="#ffffff"/>
+  <text x="60" y="40" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">VP</text>
+</svg>
